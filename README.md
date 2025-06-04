@@ -22,6 +22,7 @@
 - [ ] [Elixir Koans](https://github.com/elixirkoans/elixir-koans)
 - [ ] [Spirit](https://github.com/PracticeCraft/spirit)
 - [ ] [Exercism - Elixir](https://exercism.org/tracks/elixir)
+- [ ] [Gossip Glomers (distibuted systems challenges)](https://fly.io/dist-sys/)
 
 ### Projects
 
