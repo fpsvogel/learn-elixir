@@ -16,6 +16,7 @@
 - [ ] 💲[Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
 - [ ] 💲[From Ruby to Elixir](https://pragprog.com/titles/sbelixir/from-ruby-to-elixir)
 - [ ] 💲[Elixir in Action](https://www.manning.com/books/elixir-in-action-third-edition)
+- [ ] [The BEAM Book](https://github.com/happi/theBeamBook)
 
 ## Exercises
 
@@ -23,10 +24,7 @@
 - [ ] [Spirit](https://github.com/PracticeCraft/spirit)
 - [ ] [Exercism - Elixir](https://exercism.org/tracks/elixir)
 - [ ] [Gossip Glomers (distibuted systems challenges)](https://fly.io/dist-sys/)
-
-### Projects
-
-- [ ] Build a [SpaceTraders](https://spacetraders.io/) Phoenix app
+- [ ] Build a [SpaceTraders](https://spacetraders.io/) Phoenix + LiveView app
 
 ### Phoenix / other lists
 
