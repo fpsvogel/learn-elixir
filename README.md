@@ -17,6 +17,7 @@
 - [ ] 💲[From Ruby to Elixir](https://pragprog.com/titles/sbelixir/from-ruby-to-elixir)
 - [ ] 💲[Elixir in Action](https://www.manning.com/books/elixir-in-action-third-edition)
 - [ ] [The BEAM Book](https://github.com/happi/theBeamBook)
+- [ ] 💲[Designing for Scalability with Erlang/OTP](https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/)
 
 ## Exercises
 
