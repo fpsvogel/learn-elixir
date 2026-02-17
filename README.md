@@ -38,6 +38,7 @@
 
 - [LiveVue](https://livevue.skalecki.dev/): Vue bridge for LiveView
 - [Kalevala](https://github.com/oestrich/kalevala): a world builder's toolkit in Elixir
+- [Elixir MUD](https://github.com/elct9620/elixir-mud): Elixir + Ruby MUD
 
 ### Phoenix / other lists
 
