@@ -12,6 +12,7 @@
 
 ## Elixir
 
+- [ ] [Learn Elixir](https://github.com/dwyl/learn-elixir)
 - [ ] [Elixir School](https://elixirschool.com/en)
 - [ ] [DockYard Academy curriculum](https://github.com/DockYard-Academy/curriculum)
 - [ ] 💲[Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
